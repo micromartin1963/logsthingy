@@ -1,0 +1,5 @@
+C:\New folder (2)\logs.exe
+C:\New folder (2)\logs.dll
+C:\New folder (2)\logs.deps.json
+C:\New folder (2)\logs.runtimeconfig.json
+C:\New folder (2)\logs.pdb
